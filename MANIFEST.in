@@ -1,0 +1,4 @@
+include LICENSE.md
+include README.md
+recursive-include django_db_seed_kit/management/commands *.py
+recursive-include django_db_seed_kit/views *.py
